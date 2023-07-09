@@ -44,3 +44,82 @@ header {
   font-weight: 600;
   /* padding: 21px 25px 20px 26px; */
 }
+/*  failure section styles */
+.previous-faliure {
+  display: flex;
+}
+.image {
+  margin-top: 140px;
+  margin-left: 277px;
+}
+.faliure-information {
+  margin-left: 105px;
+}
+.heading-failure {
+  color: #151414;
+  font-size: 40px;
+  margin-top: 370px;
+  width: 288px;
+}
+.failure-description {
+  color: #444343;
+  font-size: 16px;
+  line-height: 26px;
+  margin-top: 24px;
+  width: 416px;
+}
+.failure-list {
+  color: #646161;
+  font-size: 16px;
+  line-height: 26px;
+  list-style: none;
+  margin-top: 16px;
+}
+/* my plans */
+.plan-heading {
+  color: #151414;
+  text-align: center;
+  font-size: 40px;
+  margin-top: 214px;
+}
+.main-plan {
+  display: flex;
+  margin-left: 100px;
+  margin-top: 90px;
+  justify-content: space-around;
+}
+.plan-image {
+  width: 92.958px;
+  height: 92.958px;
+}
+.plan-heading-2 {
+  color: #151414;
+  margin-right: 30px;
+  font-size: 30px;
+}
+/* positive mindset */
+.positive-mindset {
+  margin-top: 135px;
+  border-radius: 8px;
+  background-image: url(../images/watch.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 1140px;
+  height: 300px;
+}
+.heading-mindset {
+  display: flex;
+  width: 459px;
+  color: white;
+  font-size: 40px;
+  /* margin: 59px 616px 147px 64px; */
+  margin-left: 64px;
+  margin-top: 59px;
+}
+.btn-contact-1 {
+  width: 160px;
+  height: 64px;
+  border: 0;
+  border-radius: 5px;
+  margin: 24px 916px 69px 64px;
+}
