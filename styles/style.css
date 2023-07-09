@@ -1,0 +1,46 @@
+/*common shared font */
+body {
+  font-family: "Open Sans", sans-serif;
+  font-family: "Work Sans", sans-serif;
+}
+/* Header section */
+header {
+  background-image: url(../images/banner/banner3.png);
+  background-repeat: no-repeat;
+}
+.header-text {
+  padding: 216px 230px 166px 845px;
+  font-family: Work Sans;
+  text-align: right;
+}
+.header-title {
+  color: #fff;
+  text-align: right;
+  font-size: 65px;
+}
+.header-description {
+  margin-top: 24px;
+  display: flex;
+  color: white;
+  font-size: 19px;
+  line-height: 26px;
+}
+.btn-contact {
+  width: 160px;
+  height: 64px;
+  border: 0;
+  border-radius: 5px;
+  background: #fff;
+  margin-top: 32px;
+}
+.btn-contact {
+  width: 160px;
+  height: 64px;
+}
+.contact-color {
+  color: #005fac;
+  text-align: right;
+  font-size: 20px;
+  font-weight: 600;
+  /* padding: 21px 25px 20px 26px; */
+}
